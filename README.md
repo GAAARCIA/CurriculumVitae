@@ -25,8 +25,6 @@ Utilizando lo aprendido de HTML y CSS, cree su propio curriculum vitae el cual d
 ## Autores
 
 	Norma Angélica García Martínez 329528
-	José Daniel Hermosillo López 329694
-	Jesús Martín Loera Esparza 319094
 
 ## Licencia
 
